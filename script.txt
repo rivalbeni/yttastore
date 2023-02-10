@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPH STORE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <a href="/">IPAHSTORE</a>
+        <nav>
+            <ul>
+                <li><a href="#">BERANDA</a></li>
+                <li><a href="#">PRODUK</a></li>
+                <li><a href="#">TENTANG<H/a></li>
+                <li><a href="#">KONTAK</a></li>
+        </nav>
+    </header>
+</body>
+</html>
+
+--acript buat lanjutan tugas game val--
+
+   <h1 class="title-s">STREAMING APP</h1>
+  <section id="streaming" class="streaming">
+   
+    <div class="spotify">
+        <div class="link">
+            <a href="#harga-spotify">
+                    <img src="./images/spotify.png" alt="">
+                    <div class="judul-produk">Spotify Premium</div>
+            </a>
+        </div>
+        <div class="overlay" id="harga-spotify">
+            <div class="popup">
+                <h2>HARGA PREMIUM</h2>
+                <a class="close" href="#spotify">X</a>
+                <br>
+                <div class="content">
+                    30 HARI : 
+                    <br>    
+                    <span class="harga">Rp 50.000</span>
+                    <br>
+                    48 HARI : 
+                    <br>
+                    <span class="harga">80.000</span>
+                    <br>
+         </div>
+      </div>
+     </div>
+   </div>
+
+  
